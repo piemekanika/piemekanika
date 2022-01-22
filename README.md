@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piemekanika
-- 👀 I’m interested in fullstack developing 
-- 🌱 I’m currently learning backend, databases and more
+- 👀 I’m interested in blockchain developing 
+- 🌱 I’m currently learning solidity, react and blockchain itself
 
 <!---
 piemekanika/piemekanika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
